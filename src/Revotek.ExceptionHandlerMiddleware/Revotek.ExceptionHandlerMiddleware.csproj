@@ -10,6 +10,7 @@
     <RepositoryUrl>https://github.com/wenyangshl/Revotek.ExceptionHandlerMiddleware</RepositoryUrl>
     <Copyright>Copyright © 2021 Revotek Solution, LLC</Copyright>
     <PackageTags>middleware net5.0 exception</PackageTags>
+    <Description>This is a package to handle exceptions from you asp net web api</Description>
   </PropertyGroup>
 
   <ItemGroup>
