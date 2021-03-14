@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revotek.ExceptionHandlerMiddleware", "Revotek.ExceptionHandlerMiddleware\Revotek.ExceptionHandlerMiddleware.csproj", "{8BF96F54-57BA-47FB-AE8F-69875DE93428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApi", "..\tests\TestWebApi\TestWebApi.csproj", "{0FBDB4FF-71C6-409E-8A06-3B35D532B5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF96F54-57BA-47FB-AE8F-69875DE93428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF96F54-57BA-47FB-AE8F-69875DE93428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF96F54-57BA-47FB-AE8F-69875DE93428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF96F54-57BA-47FB-AE8F-69875DE93428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FBDB4FF-71C6-409E-8A06-3B35D532B5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBDB4FF-71C6-409E-8A06-3B35D532B5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBDB4FF-71C6-409E-8A06-3B35D532B5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBDB4FF-71C6-409E-8A06-3B35D532B5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10796237-C86E-48DE-956D-983365DF655F}
+	EndGlobalSection
+EndGlobal
